@@ -9,3 +9,6 @@ Integrantes Grupo 10
 - Andres Felipe Mejia
 - Andres Rene Vargas
 - Daniel Alezander Zapata
+
+Enlace del miro - scrum board
+https://miro.com/welcomeonboard/dTdGMGh3NzZ1RThpQVlDbEFlTGZmT1hQS2k0blM4UVBCQ3RlOGJLSDh3b2ZmY2FkWWdDUEdjM0pnQkdGMFdDV3wzMDc0NDU3MzQ4MTY3ODgxODA4?invite_link_id=146186293455
