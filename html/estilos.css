@@ -7,6 +7,7 @@
     grid-gap: 10px;
     padding: 20px;
     font-family: 'Roboto Condensed';
+    /* border-style: solid; */
 }
 
 .row {
@@ -16,6 +17,8 @@
 
 #landing_navbar {
     text-align: left;
+    background-color: lightblue;
+    border-style: outset;
 }
 
 #contenedor {
@@ -48,4 +51,18 @@
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
+}
+
+#btn_irRegistro {
+    margin-top: 300%;
+    margin-left: 28%;
+}
+
+#camposregistro{
+    border-style: solid;
+    width: 380px;
+    padding: 10px 10px 10px 10px;
+    background-color:lightgrey;
+    text-align: left;
+    
 }
