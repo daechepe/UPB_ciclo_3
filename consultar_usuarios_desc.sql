@@ -1,0 +1,1 @@
+SELECT id, usuario from usuarios ORDER BY id desc
